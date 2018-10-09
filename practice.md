@@ -19,8 +19,11 @@ For my writeup, I wanted to talk about where we all stand as a league. I still h
 And lets take a look at the current projections. Shows how quickly things change. 1 or 2 good pickups and your whole season can change.
 
 
-## Rest of Season Power Rankings (Projected Playoff Teams)
+## Projected Playoff Teams
 ![Projections](https://i.gyazo.com/c6c0d615dc1ed56af50405ec82f5e9dd.png)
+
+## Power Rankings through Week 5 and Beyond
+![Rankings](https://gyazo.com/bffeb40a56ea00e613ccbfa9b99324b2.png)
 
 ## Justin's team Outlook
 Justin was the 6th ranked team post draft. Justin had the 3rd best receivers with Michael Thomas and De'Andre Hopkins. Justin went with a high end receiver heavy strat (not to the caliber of Anthony but still...) and that realistically should've paid off in a 0.5 PPR league. 
